@@ -58,6 +58,8 @@ namespace WebStore
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            
         }
     }
 }
